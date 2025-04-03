@@ -1,0 +1,64 @@
+D:\Sistemas de Informação\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.exe.config
+D:\Sistemas de Informação\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.exe
+D:\Sistemas de Informação\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.pdb
+D:\Sistemas de Informação\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.xml
+D:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.AssemblyReference.cache
+D:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.SuggestedBindingRedirects.cache
+D:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.Form1.resources
+D:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.Resources.resources
+D:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.GenerateResource.cache
+D:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.CoreCompileInputs.cache
+D:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.exe
+D:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.xml
+D:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.pdb
+E:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.AssemblyReference.cache
+E:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.SuggestedBindingRedirects.cache
+E:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.Form1.resources
+E:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.Resources.resources
+E:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.GenerateResource.cache
+E:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.CoreCompileInputs.cache
+E:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.exe
+E:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.xml
+E:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.pdb
+E:\Sistemas de Informação\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.exe.config
+E:\Sistemas de Informação\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.exe
+E:\Sistemas de Informação\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.pdb
+E:\Sistemas de Informação\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.xml
+E:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\Interop.ADODB.dll
+E:\Sistemas de Informação\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.ResolveComReference.cache
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.exe.config
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.exe
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.pdb
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.xml
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.AssemblyReference.cache
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\obj\Debug\Interop.ADODB.dll
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.ResolveComReference.cache
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.Form1.resources
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.Resources.resources
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.GenerateResource.cache
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.exe
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.xml
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.pdb
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\bin\Debug\Guna.UI2.dll
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.CopyComplete
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\bin\Debug\Guna.UI.dll
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.exe.config
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.exe
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.pdb
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\bin\Debug\ProjetoConfeitaria.xml
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\bin\Debug\Guna.UI2.dll
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.AssemblyReference.cache
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\obj\Debug\Interop.ADODB.dll
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.ResolveComReference.cache
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.Form1.resources
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.Resources.resources
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.GenerateResource.cache
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.vbproj.CopyComplete
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.exe
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.xml
+C:\Users\Ana Clara\Desktop\Clarinha\ProjetoConfeitaria\ProjetoConfeitaria\obj\Debug\ProjetoConfeitaria.pdb
